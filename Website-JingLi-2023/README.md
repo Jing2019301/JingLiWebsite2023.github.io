@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/annie)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/annie?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/annie?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/lD-hxm19ncs?style=social)](https://youtu.be/lD-hxm19ncs)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Jing)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Jing?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Jing?style=social)
+
+  
 
   <br />
   <br />
 
   <h2 align="center">Jing- Personal Portfolio</h2>
 
-  Annie is a fully responsive personal portfolio, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ Jing is a fully responsive personal portfolio, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.jing/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/Jing2019301/JingLiWebsite2023.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Annie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Jing Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -36,13 +36,13 @@ To run **Annie** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jing.git
+sudo git clone https://github.com/Jing2019301/JingLiWebsite2023.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/jing.git
+git clone https://github.com/Jing2019301/JingLiWebsite2023.github.io.git
 ```
 
 ### Contact
