@@ -1,8 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Jing)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Jing?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Jing?style=social)
 
   
 
@@ -31,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Annie** locally, run this command on your git bash:
+To run **Jing** locally, run this command on your git bash:
 
 Linux and macOS:
 
