@@ -1,11 +1,7 @@
 <div align="center">
 
   
-
-  <br />
-  <br />
-
-  <h2 align="center">Jing- Personal Portfolio</h2>
+  <h1 align="center">Jing- Personal Portfolio</h1>
 
  Jing is a fully responsive personal portfolio, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
